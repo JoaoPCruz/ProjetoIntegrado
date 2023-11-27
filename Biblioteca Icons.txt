@@ -1,0 +1,15 @@
+ - Icon de Carrinho
+ - Icon de Casa (sugestão) para gestão de rstaurante
+ - Icon de Perfil
+ - Icon de Notificação
+ - Icon de historico
+ - Icon de Score
+ - Icon de Karma ou Confiabilidade (pensa em um icon para por ao lado de uma pontuação de confiabilidade)
+ - Icon de grafico de Vendas
+ - Icon de ajuda
+ - Icon de Certificação
+ - Icon de Estrela michelin (Icon official)
+ - Icon de Menu
+ - Icon de Mapa
+
+Esportar todos os Icons em PGN com fundo transparente!!!!!!
