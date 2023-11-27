@@ -1,5 +1,5 @@
  - Icon de Carrinho
- - Icon de Casa (sugestão) para gestão de rstaurante
+ - Icon de Casa (sugestão) para gestão de restaurante
  - Icon de Perfil
  - Icon de Notificação
  - Icon de historico
@@ -11,5 +11,9 @@
  - Icon de Estrela michelin (Icon official)
  - Icon de Menu
  - Icon de Mapa
+ - Icon de Telefone
+ - Icon de Login
+ - Icon de Logout
+ - Icon de Calendario
 
-Esportar todos os Icons em PGN com fundo transparente!!!!!!
+Exportar todos os Icons em PGN com fundo transparente!!!!!!
